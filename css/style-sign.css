@@ -24,20 +24,20 @@
   font-weight: 60;
 }
 
-.sl1{animation: flicker_v1 5s linear infinite;}
-.sl2{animation: flicker_v3 7s linear infinite;}
-.sl3{animation: flicker_v2 4s linear infinite;}
-.sl4{animation: flicker_v4 8s linear infinite;}
-.sl5{animation: flicker_v4 4s linear infinite;}
-.sl6{animation: flicker_v4 3s linear infinite;}
-.sl7{animation: flicker_v4 9s linear infinite;}
-.sl8{animation: flicker_v4 10s linear infinite;}
-.sl9{animation: flicker_v4 4s linear infinite;}
-.s20{animation: flicker_v4 7s linear infinite;}
-.s21{animation: flicker_v4 11s linear infinite;}
-.s22{animation: flicker_v4 5s linear infinite;}
-.s23{animation: flicker_v4 6s linear infinite;}
-.s24{animation: flicker_v4 7s linear infinite;}
+.sl1{animation: flicker_v1 25s linear infinite;}
+.sl2{animation: flicker_v3 17s linear infinite;}
+.sl3{animation: flicker_v2 14s linear infinite;}
+.sl4{animation: flicker_v4 18s linear infinite;}
+.sl5{animation: flicker_v4 44s linear infinite;}
+.sl6{animation: flicker_v4 63s linear infinite;}
+.sl7{animation: flicker_v4 19s linear infinite;}
+.sl8{animation: flicker_v4 99s linear infinite;}
+.sl9{animation: flicker_v4 24s linear infinite;}
+.s20{animation: flicker_v4 37s linear infinite;}
+.s21{animation: flicker_v4 41s linear infinite;}
+.s22{animation: flicker_v4 15s linear infinite;}
+.s23{animation: flicker_v4 26s linear infinite;}
+.s24{animation: flicker_v4 27s linear infinite;}
 
 @keyframes flicker_v1{
   0%  {
